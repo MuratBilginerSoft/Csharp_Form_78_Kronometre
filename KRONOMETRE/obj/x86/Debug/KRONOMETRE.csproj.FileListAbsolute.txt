@@ -1,0 +1,30 @@
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\KRONOMETRE\KRONOMETRE\bin\Debug\KRONOMETRE.exe
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\KRONOMETRE\KRONOMETRE\bin\Debug\KRONOMETRE.pdb
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\KRONOMETRE\KRONOMETRE\obj\x86\Debug\KRONOMETRE.Form1.resources
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\KRONOMETRE\KRONOMETRE\obj\x86\Debug\KRONOMETRE.Properties.Resources.resources
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\KRONOMETRE\KRONOMETRE\obj\x86\Debug\KRONOMETRE.csproj.GenerateResource.Cache
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\KRONOMETRE\KRONOMETRE\obj\x86\Debug\KRONOMETRE.exe
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\KRONOMETRE\KRONOMETRE\obj\x86\Debug\KRONOMETRE.pdb
+F:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJE DEPOM\KRONOMETRE\KRONOMETRE\obj\x86\Debug\KRONOMETRE.exe
+F:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJE DEPOM\KRONOMETRE\KRONOMETRE\obj\x86\Debug\KRONOMETRE.pdb
+F:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJE DEPOM\KRONOMETRE\KRONOMETRE\bin\Debug\KRONOMETRE.exe
+F:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJE DEPOM\KRONOMETRE\KRONOMETRE\bin\Debug\KRONOMETRE.pdb
+F:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJE DEPOM\KRONOMETRE\KRONOMETRE\obj\x86\Debug\KRONOMETRE.Form1.resources
+F:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJE DEPOM\KRONOMETRE\KRONOMETRE\obj\x86\Debug\KRONOMETRE.Properties.Resources.resources
+F:\x\NCFKR\2 BİLGİNER\4 C#\C# PROJE DEPOM\KRONOMETRE\KRONOMETRE\obj\x86\Debug\KRONOMETRE.csproj.GenerateResource.Cache
+C:\Users\Ncfkr\Desktop\6 Kodbank C# Görsel Programlama 6 Kronometre\KRONOMETRE\KRONOMETRE\obj\x86\Debug\KRONOMETRE.exe
+C:\Users\Ncfkr\Desktop\6 Kodbank C# Görsel Programlama 6 Kronometre\KRONOMETRE\KRONOMETRE\obj\x86\Debug\KRONOMETRE.pdb
+C:\Users\Ncfkr\Desktop\6 Kodbank C# Görsel Programlama 6 Kronometre\KRONOMETRE\KRONOMETRE\bin\Debug\KRONOMETRE.exe
+C:\Users\Ncfkr\Desktop\6 Kodbank C# Görsel Programlama 6 Kronometre\KRONOMETRE\KRONOMETRE\bin\Debug\KRONOMETRE.pdb
+C:\Users\Ncfkr\Desktop\6 Kodbank C# Görsel Programlama 6 Kronometre\KRONOMETRE\KRONOMETRE\obj\x86\Debug\KRONOMETRE.csprojResolveAssemblyReference.cache
+C:\Users\Ncfkr\Desktop\6 Kodbank C# Görsel Programlama 6 Kronometre\KRONOMETRE\KRONOMETRE\obj\x86\Debug\KRONOMETRE.Form1.resources
+C:\Users\Ncfkr\Desktop\6 Kodbank C# Görsel Programlama 6 Kronometre\KRONOMETRE\KRONOMETRE\obj\x86\Debug\KRONOMETRE.Properties.Resources.resources
+C:\Users\Ncfkr\Desktop\6 Kodbank C# Görsel Programlama 6 Kronometre\KRONOMETRE\KRONOMETRE\obj\x86\Debug\KRONOMETRE.csproj.GenerateResource.Cache
+E:\04 - Yazılım\04 - Form Projeleri\93 Kronometre\KRONOMETRE\KRONOMETRE\obj\x86\Debug\KRONOMETRE.exe
+E:\04 - Yazılım\04 - Form Projeleri\93 Kronometre\KRONOMETRE\KRONOMETRE\obj\x86\Debug\KRONOMETRE.pdb
+E:\04 - Yazılım\04 - Form Projeleri\93 Kronometre\KRONOMETRE\KRONOMETRE\bin\Debug\KRONOMETRE.exe
+E:\04 - Yazılım\04 - Form Projeleri\93 Kronometre\KRONOMETRE\KRONOMETRE\bin\Debug\KRONOMETRE.pdb
+E:\04 - Yazılım\04 - Form Projeleri\93 Kronometre\KRONOMETRE\KRONOMETRE\obj\x86\Debug\KRONOMETRE.csprojResolveAssemblyReference.cache
+E:\04 - Yazılım\04 - Form Projeleri\93 Kronometre\KRONOMETRE\KRONOMETRE\obj\x86\Debug\KRONOMETRE.Form1.resources
+E:\04 - Yazılım\04 - Form Projeleri\93 Kronometre\KRONOMETRE\KRONOMETRE\obj\x86\Debug\KRONOMETRE.Properties.Resources.resources
+E:\04 - Yazılım\04 - Form Projeleri\93 Kronometre\KRONOMETRE\KRONOMETRE\obj\x86\Debug\KRONOMETRE.csproj.GenerateResource.Cache
